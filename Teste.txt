@@ -1,0 +1,7 @@
+programa teste . 
+
+	inicio
+
+	fim
+
+end_prog .

@@ -1,0 +1,20 @@
++
+*
+<<
+.
+(
+)
+verdadeiro falso
+nao e ou
+bool text int float
+programa
+end_prog
+inicio
+fim
+se
+entao
+senao
+para
+enquanto
+declare
+ate 
